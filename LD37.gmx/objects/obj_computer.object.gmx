@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>pageOn = 0;
+            <string>pageOn = 1;
+totalPages = 1;
 
 </string>
           </argument>
