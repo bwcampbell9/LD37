@@ -20,7 +20,6 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_computer</object>
     <objects name="UI">
       <object>objects\obj_health_bar</object>
     </objects>
