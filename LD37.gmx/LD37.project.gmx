@@ -10,7 +10,7 @@
     <sprite>sprites\sprite1</sprite>
     <sprites name="UI">
       <sprites name="Healthbar">
-        <sprite>sprites\spr_h_forground</sprite>
+        <sprite>sprites\spr_h_foreground</sprite>
         <sprite>sprites\spr_h_backround</sprite>
         <sprite>sprites\spr_h_blue</sprite>
         <sprite>sprites\spr_h_orange</sprite>
@@ -21,6 +21,9 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_computer</object>
+    <objects name="UI">
+      <object>objects\obj_health_bar</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_confrence_room</room>
