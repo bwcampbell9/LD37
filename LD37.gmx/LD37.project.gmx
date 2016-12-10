@@ -6,7 +6,6 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-<<<<<<< HEAD
     <sprite>sprites\Powerpoint</sprite>
     <sprite>sprites\sprite1</sprite>
     <sprites name="UI">
@@ -17,26 +16,13 @@
         <sprite>sprites\spr_h_orange</sprite>
       </sprites>
     </sprites>
-=======
-    <sprite>sprites\sprite_powerpoint</sprite>
-    <sprite>sprites\sprite_computer</sprite>
-    <sprite>sprites\sprite_left_arrow</sprite>
-    <sprite>sprites\sprite_right_arrow</sprite>
->>>>>>> refs/remotes/origin/PowerPoint
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-<<<<<<< HEAD
     <objects name="UI">
       <object>objects\obj_health_bar</object>
     </objects>
-=======
-    <object>objects\obj_powerpoint</object>
-    <object>objects\obj_computer</object>
-    <object>objects\obj_left_arrow</object>
-    <object>objects\obj_right_arrow</object>
->>>>>>> refs/remotes/origin/PowerPoint
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_confrence_room</room>
