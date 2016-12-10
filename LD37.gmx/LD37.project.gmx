@@ -7,11 +7,17 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite_powerpoint</sprite>
+    <sprite>sprites\sprite_computer</sprite>
+    <sprite>sprites\sprite_left_arrow</sprite>
+    <sprite>sprites\sprite_right_arrow</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_powerpoint</object>
+    <object>objects\obj_computer</object>
+    <object>objects\obj_left_arrow</object>
+    <object>objects\obj_right_arrow</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_confrence_room</room>
