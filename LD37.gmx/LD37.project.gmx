@@ -6,10 +6,13 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Powerpoint</sprite>
+    <sprite>sprites\sprite_powerpoint</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_powerpoint</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\rm_confrence_room</room>
   </rooms>
